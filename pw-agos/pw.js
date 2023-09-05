@@ -57,4 +57,5 @@ console.log(botella.walk());
     at pw.js:64:13
   Da error porque la referencia de eso no existe, referencia son las variables,
   deberia decir console.log(personAge)
-3)  */
+3)El atajo se llama descontruraccion, te ayuda llamando las propiedades que vas a necesitar
+asi no tenes que ponerlas despues del objeto.asi (punto propiedad)*/
